@@ -1,4 +1,4 @@
-Phoebe Shaw, phoebe.shaw001@umb.edu, # pebbish
+Phoebe Shaw, phoebe.shaw001@umb.edu
 Arianna Curry, Arianna.Curry001@umb.edu
 Sophonie Germain, sophonie.germain001@umb.edu
 Bryan Bonilla, bryan.bonilla001@umb.edu
